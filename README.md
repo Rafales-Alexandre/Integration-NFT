@@ -9,8 +9,8 @@ Ce repository contient le starter kit du projet Slider de comparaison Javascript
 
 ## Prérequis
 
-- [HTML niveau 4](https://microlead.fr/echelles/html)
-- [CSS niveau 10](https://microlead.fr/echelles/css)
+- [HTML niveau 9](https://microlead.fr/echelles/html)
+- [CSS niveau 9](https://microlead.fr/echelles/css)
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
 
 ## Bug & améliorations
