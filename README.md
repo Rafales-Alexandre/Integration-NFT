@@ -1,6 +1,6 @@
 [<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
-[<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/asset/img/NFT Collection Landing Page Template/1.png" alt="Microlead" width="300" /></p>]
+[<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/asset/img/NFT Collection Landing Page Template/3.svg" alt="Microlead" width="300" /></p>]
 Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS
 # Slider de comparaison Javascript
 
