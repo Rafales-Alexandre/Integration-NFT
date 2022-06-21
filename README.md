@@ -1,7 +1,7 @@
 [<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
-[<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/asset/img/NFT Collection Landing Page Template/3.svg" alt="Microlead" width="300" /></p>]
-Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS
+[<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/3.svg" alt="template 3" width="300" /></p>]
+
 # Slider de comparaison Javascript
 
 Ce repository contient le starter kit du projet Slider de comparaison Javascript disponible sur [Microlead.fr](https://microlead.fr)
