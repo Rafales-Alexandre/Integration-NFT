@@ -1,13 +1,9 @@
 [<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/1.png" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/2.png" alt="template 3" width="300" /></p>
-
-<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/3.svg" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/4.png" alt="template 3" width="300" /></p>
 
 
-
-# Slider de comparaison Javascript
+# Intégration statique NFT
 
 Ce repository contient le starter kit du projet Slider de comparaison Javascript disponible sur [Microlead.fr](https://microlead.fr)
 
@@ -16,6 +12,15 @@ Ce repository contient le starter kit du projet Slider de comparaison Javascript
 - [HTML niveau 9](https://microlead.fr/echelles/html)
 - [CSS niveau 9](https://microlead.fr/echelles/css)
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
+
+## Importation dans figma
+Prenez le fichier SVG, glissez/déposez sur dans le figma pour avoir acces à la maquette.
+
+## previsualisation de la maquette
+
+<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/1.png" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/2.png" alt="template 3" width="300" /></p>
+
+<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/3.svg" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/4.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
