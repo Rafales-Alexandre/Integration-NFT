@@ -16,7 +16,7 @@ Ce repository contient le starter kit du projet Slider de comparaison Javascript
 ## Importation dans figma
 Prenez le fichier SVG, glissez/déposez sur dans le figma pour avoir acces à la maquette.
 
-## previsualisation de la maquette
+## Previsualisation de la maquette
 
 <p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/1.png" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/2.png" alt="template 3" width="300" /></p>
 
