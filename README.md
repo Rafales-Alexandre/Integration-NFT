@@ -29,7 +29,7 @@ Le signalement des bugs et les propositions d'amélioration sont les bienvenus !
 Les propositions d'amélioration sont les bienvenues, venez en discuter avec nous sur notre [Discord](https://discord.gg/skkDr3STAw) !
 
 ## Copyright & License
-
+Maquette produite par ant-design https://ant.design/
 Copyright © 2020-2022 Microlead. Tous droits réservés
 
 ## Suivre
