@@ -5,7 +5,7 @@
 
 # Intégration statique NFT
 
-Ce repository contient le starter kit du projet Slider de comparaison Javascript disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter Integration NFT disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
@@ -14,7 +14,7 @@ Ce repository contient le starter kit du projet Slider de comparaison Javascript
 - [Javascript niveau 8](https://microlead.fr/echelles/javascript)
 
 ## Importation dans figma
-Prenez le fichier SVG, glissez/déposez sur dans le figma pour avoir acces à la maquette.
+Prenez les fichiers SVG dans le dossier figma, glissez/déposez sur dans le figma pour avoir acces à la maquette.
 
 ## Previsualisation de la maquette
 
