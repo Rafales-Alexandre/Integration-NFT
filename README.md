@@ -11,7 +11,6 @@ Ce repository contient le starter Integration NFT disponible sur [Microlead.fr](
 
 - [HTML niveau 9](https://microlead.fr/echelles/html)
 - [CSS niveau 9](https://microlead.fr/echelles/css)
-- [Javascript niveau 8](https://microlead.fr/echelles/javascript)
 
 ## Importation dans figma
 Prenez les fichiers SVG dans le dossier figma, glissez/déposez sur dans le figma pour avoir acces à la maquette.
